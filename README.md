@@ -19,11 +19,11 @@ A comparason of the overall district analysis was conducted using the data from 
 
 #### Original Analysis Including Metrics from THS
 
-INSERT PICTURE
+![](Resources/District_Summary_Before.png)
 
 #### Updated Analysis With THS Metrics Removed
 
-INSERT PICTURE
+![](Resources/District_Summary_After.png)
 
 ## Top and Bottom School Comparasons
 
@@ -31,21 +31,22 @@ The lists of top and bottom ranked schools in the original and updated assessmen
 
 #### Original Analysis - Top 5 Schools Within District Ranked
 
-INSERT PICTURE
+![](Resources/Top_Schools_Before.png)
 
 #### Updated Analysis - Top 5 Schools Within District Ranked
 
-INSERT PICTURE
+![](Resources/Top_Schools_After.png)
 
 The list of bottom ranked schools within the district remains identical during both analyses. This is due to Thomas High School never being apart of these rankings to begin with, thus there is no changed data being compared or observed. Below are screenshots of the dataframes in both assessments.
 
 #### Original Analysis - Bottom 5 Schools Within District Ranked
 
-INSERT PICTURE
+![](Resources/Bottom_Schools_Before.png)
 
 #### Updated Analysis - Bottom 5 Schools Within District Ranked
 
-INSERT PICTURE
+![](Resources/Bottom_Schools_After.png)
+
 
 ## Impact of Math and Reading Scores by Grade
 
@@ -53,11 +54,19 @@ Comparasons of the math and reading scores by grades were conducted using the or
 
 #### Original Analysis - Math Scores by Grade
 
-INSERT PICTURE
+![](Resources/Math_Scores_By_Grade_Before.png)
+
+#### Updated Analysis - Math Scores by Grade
+
+![](Resources/Math_Scores_By_Grade_After.png)
+
+#### Original Analysis - Reading Scores by Grade
+
+![](Resources/Reading_Scores_By_Grade_Before.png)
 
 #### Updated Analysis - Reading Scores by Grade
 
-INSERT PICTURE
+![](Resources/Reading_Scores_By_Grade_After.png)
 
 ## Impact of Scores by School Spending
 
@@ -65,11 +74,11 @@ Comparasons of the spending ranges per student dataframes were conducted using b
 
 #### Original Analysis - Spending Per Student
 
-INSERT PICTURE
+![](Resources/Spending_Per_Student_Before.png)
 
 #### Updated Analysis - Spending Per Student
 
-INSERT PICTURE
+![](Resources/Spending_Per_Student_After.png)
 
 ## Scores by School Size Comparason
 
@@ -77,11 +86,11 @@ Comparasons of the scores per school size were conducted using the original and 
 
 #### Original Analysis - Scores by School Size
 
-INSERT PICTURE
+![](Resources/Score_By_Size_Before.png)
 
 #### Updated Analysis - Scores by School Size
 
-INSERT PICTURE
+![](Resources/Score_By_Size_After.png)
 
 ## Impact of Scores by School Type
 
@@ -89,8 +98,8 @@ Comparasons of the scores by school type were conducted using the original and u
 
 #### Original Analysis - Scores by School Type
 
-INSERT PICTURE
+![](Resources/Score_By_Type_Before.png)
 
 #### Updated Analysis - Scores by School Type
 
-INSERT PICTURE
+![](Resources/Score_By_Type_After.png)
