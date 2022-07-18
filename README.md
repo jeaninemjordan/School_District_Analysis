@@ -6,7 +6,12 @@
 
 This analysis is intended on reporting the academic performance versus the funding and budget metrics of the students at fifteen district and charter high schools.  During the analysis, it was discovered that the ninth-grade math and reading scores from Thomas High School were skewed due to potential academic dishonesty and needed to be removed from the overall assessment. To do this, the ninth-grade scores from Thomas High School were nullified with NaN (Not a Number) values during a second analysis and a comparison was conducted to understand the overall difference between omitting the grades from the analysis. 
 
-### Results
+## Results
+
+### Software: 
+* Python 3.7 (Dependencies: Pandas and Numpy)
+* Anaconda
+* Jupyter Notebook
 
 ## District Analysis Comparason
 
