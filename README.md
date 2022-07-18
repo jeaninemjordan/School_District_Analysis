@@ -74,11 +74,11 @@ Comparasons of the spending ranges per student dataframes were conducted using b
 
 #### Original Analysis - Spending Per Student
 
-![](Resources/Spending_Per_Student_Before.png)
+![](Resources/Spending_By_Student_Before.png)
 
 #### Updated Analysis - Spending Per Student
 
-![](Resources/Spending_Per_Student_After.png)
+![](Resources/Spending_By_Student_After.png)
 
 ## Scores by School Size Comparason
 
